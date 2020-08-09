@@ -12,7 +12,7 @@ Website front-end for a good friend of mine.
 
 ## What you're gonna see in this project 
 
-* A static website made in html / css
+* A responsive static website made in html / css
 * Some jQuery animations
 * Modern user interface
 
