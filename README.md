@@ -10,7 +10,7 @@
 Website front-end for a good friend of mine.
 
 
-## What you're gonna see in this project 
+## What to expect from this project
 
 * A responsive static website made in html / css
 * Some jQuery animations
